@@ -1,0 +1,17 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/A2JMH/MyBenchmark$LibraryStateHi.setup
+inline,com/A2JMH/MyBenchmark$LibraryStateHi.teardown
+inline,com/A2JMH/MyBenchmark$LibraryStateLo.setup
+inline,com/A2JMH/MyBenchmark$LibraryStateLo.teardown
+inline,com/A2JMH/MyBenchmark$MyStateHi.setup
+inline,com/A2JMH/MyBenchmark$MyStateHi.teardown
+inline,com/A2JMH/MyBenchmark$MyStateLo.setup
+inline,com/A2JMH/MyBenchmark$MyStateLo.teardown
+inline,com/A2JMH/MyBenchmark.MyHi
+inline,com/A2JMH/MyBenchmark.MyLo
+inline,com/A2JMH/MyBenchmark.libraryHi
+inline,com/A2JMH/MyBenchmark.libraryLo

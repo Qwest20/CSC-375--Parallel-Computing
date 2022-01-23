@@ -1,0 +1,4 @@
+JMH S 21 com.A2JMH.MyBenchmark S 48 com.A2JMH.jmh_generated.MyBenchmark_MyHi_jmhTest S 4 MyHi S 10 Throughput E A 1 1 1 E I 1 5 T 3 1 s E I 2 20 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 21 com.A2JMH.MyBenchmark S 48 com.A2JMH.jmh_generated.MyBenchmark_MyLo_jmhTest S 4 MyLo S 10 Throughput E A 1 1 1 E I 1 5 T 3 1 s E I 2 20 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 21 com.A2JMH.MyBenchmark S 53 com.A2JMH.jmh_generated.MyBenchmark_libraryHi_jmhTest S 9 libraryHi S 10 Throughput E A 1 1 1 E I 1 5 T 3 1 s E I 2 20 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
+JMH S 21 com.A2JMH.MyBenchmark S 53 com.A2JMH.jmh_generated.MyBenchmark_libraryLo_jmhTest S 9 libraryLo S 10 Throughput E A 1 1 1 E I 1 5 T 3 1 s E I 2 20 T 3 1 s E I 1 1 E E E E E E U 7 SECONDS E E 
